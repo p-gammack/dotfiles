@@ -1,2 +1,5 @@
 [user]
 	name = Patrick Gammack
+
+[alias]
+    l = log --oneline --graph -n 20
