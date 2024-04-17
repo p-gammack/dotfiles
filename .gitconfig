@@ -1,5 +1,6 @@
 [user]
 	name = Patrick Gammack
+	email = 56632002+p-gammack@users.noreply.github.com
 
 [alias]
     l = log --oneline --graph -n 20
