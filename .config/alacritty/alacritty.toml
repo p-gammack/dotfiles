@@ -1,0 +1,14 @@
+[general]
+import = [
+"~/.config/alacritty/themes/themes/gruvbox_material_hard_dark.toml"
+]
+
+[window]
+padding = { x = 6, y = 6}
+dynamic_padding = true
+decorations = "Full"
+
+[font]
+normal = { family = "JetBrainsMono Nerd Font", style = "Light" }
+size = 14
+
