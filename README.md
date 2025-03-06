@@ -1,6 +1,8 @@
-# dotfiles
-My personal dotfiles
+# My personal dotfiles
 
+### Installation
 ```bash
-git clone git@github.com:p-gammack/dotfiles.git ~/.dotfiles
+git clone https://github.com/p-gammack/dotfiles.git ~/.dotfiles
+cd ~/.dotfiles
+stow --adopt .
 ```
