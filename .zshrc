@@ -1,7 +1,7 @@
 PROMPT=$'%F{202}\u2771%f %F{68}%c%f '
 RPROMPT=$'%F{202}[%T]%f'
 
-alias ls='ls -G'
+alias ls='ls --color=auto -G'
 alias brew-uuc='brew update && brew upgrade && brew cleanup'
 alias vim=nvim
 
